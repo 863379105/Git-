@@ -40,7 +40,7 @@
 
 ### git 文件生命周期
 
-![lifecycle](.\assets\lifecycle.png)
+![lifecycle](assets/lifecycle.png)
 
 ### 状态
 
@@ -62,7 +62,7 @@ git 提供了三个不同的工作区，用来存放不同的内容
 - 暂存区域
 - Git 仓库
 
-![areas](.\assets\areas.png)
+![areas](assets/areas.png)
 
 
 
